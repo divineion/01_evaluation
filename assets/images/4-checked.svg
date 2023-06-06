@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="51"
+   height="51"
+   viewBox="0 0 51 51"
+   fill="none"
+   version="1.1"
+   id="svg18962"
+   sodipodi:docname="4-checked.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview18964"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="12.27451"
+     inkscape:cx="25.5"
+     inkscape:cy="25.5"
+     inkscape:window-width="1600"
+     inkscape:window-height="829"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg18962" />
+  <g
+     clip-path="url(#clip0_0_1517)"
+     id="g18955">
+    <circle
+       cx="25.5"
+       cy="25.5"
+       r="25.5"
+       fill="#7C8798"
+       id="circle18951"
+       style="fill:#fc7614;fill-opacity:1" />
+    <path
+       d="M25.8434 29V26.68H20.1234V25.384L25.8834 17.8H27.8674V24.768H29.2834V26.68H27.8674V29H25.8434ZM22.8114 24.768H25.8434V20.672L22.8114 24.768Z"
+       fill="white"
+       id="path18953" />
+  </g>
+  <defs
+     id="defs18960">
+    <clipPath
+       id="clip0_0_1517">
+      <rect
+         width="51"
+         height="51"
+         fill="white"
+         id="rect18957" />
+    </clipPath>
+  </defs>
+</svg>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Please let us know how we did with your support request. All feedback is appreciated to help us improve our offering!">
+        <title>Evaluation</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Overpass:wght@400;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="styles/style.css">
+        <script src="script/main.js" defer></script>
+    </head>
+    <body>
+        <div id="view">
+            <div id="component">
+                <div id="star">          
+                    <img src="./assets/images/star.svg" width="16" height="16" alt="image décorative d'une étoile de couleur jaune sur un fond gris bleuté">
+                </div>
+                <div class="text">
+                    <h1>How did we do ?</h1>
+                    <p id="legend">Please let us know how we did with your support request. All feedback is appreciated to help us improve our offering! 
+                    </p>
+                </div>
+
+                <div id="form">
+                    <form action="" method="post" onsubmit="return false"> 
+                        <div class="eval">
+                            <input type="radio" name="choice" value="rating1" id="rating1"> 
+                            <label class="radio" for="rating1">
+                                <img src="assets/images/1.svg" alt="number one in a circle">
+                            </label>
+                            <input type="radio" name="choice" value="rating2" id="rating2"> 
+                            <label class="radio" for="rating2">
+                                <img src="assets/images/2.svg" alt="number two in a circle">
+                            </label>
+                            <input type="radio" name="choice" value="rating3" id="rating3">
+                            <label class="radio" for="rating3">
+                                <img src="assets/images/3.svg" alt="number three in a circle">
+                            </label>
+                            <input type="radio" name="choice" value="rating4" id="rating4"> 
+                            <label class="radio" for="rating4">
+                                <img src="assets/images/4.svg" alt="number four in a cicle">
+                            </label>
+                            <input type="radio" name="choice" value="rating5" id="rating5"> 
+                            <label class="radio" for="rating5">
+                                <img src="assets/images/5.svg" alt="number five in a circle">
+                            </label>
+                        </div>
+                        <button id="submit" type="submit" disabled> Submit </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+        <div id="lastview">
+            <div id="component" class="flexbox">
+                <img id="post-rating-view" src="assets/images/onlinepayment_two_color.png" alt="">
+        <p id="rating-report">You selected <span></span> out of 5</p>
+        <p class="thanks">Thank you!</p>
+        <p class="thanks">We appreciate you taking the time to give a rating. If you ever need more support, don’t hesitate to get in touch!</p>
+            </div>
+        </div>
+
+    </body>
+</html>
